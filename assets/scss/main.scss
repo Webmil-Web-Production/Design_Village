@@ -30,6 +30,11 @@ body {
   min-height: 100vh;
   margin: 0;
 }
+body::after {
+  content: '';
+  display: block;
+  height: 149px; /* Set same as footer's height */
+}
 
 main {
   flex: 1;
@@ -54,7 +59,7 @@ main {
     background-color: #FC5000;
     cursor: pointer;
     text-decoration: none;
-
+    margin-bottom: 46px;
     &:hover,
     &:focus,
     &:active {
