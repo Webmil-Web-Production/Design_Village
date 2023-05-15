@@ -20,8 +20,8 @@ export default {
   },
 
   css: [
-    '~/static/normalize.css',
-    '~/static/main.scss'
+    '~/assets/scss/normalize.css',
+    '~/assets/scss/main.scss'
   ],
 
   plugins: [
