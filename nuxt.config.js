@@ -14,7 +14,11 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-  mode: 'static',
+  target: 'static',
+  router: {
+    base:'/Design_Village/'
+  },
+
   css: [
     '~/assets/scss/normalize.css',
     '~/assets/scss/main.scss'
