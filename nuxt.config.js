@@ -16,7 +16,7 @@ export default {
   },
   mode: 'static',
   router: {
-    base: '/Design_Village/'
+    base: '/'
   },
   css: [
     '~/assets/scss/normalize.css',
