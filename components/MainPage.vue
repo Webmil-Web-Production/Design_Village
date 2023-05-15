@@ -1,8 +1,8 @@
 <template>
   <div>
     <header>
-      <img class="logo" src="../static/images/logo.svg" alt="logo"/>
-      <img class="logo_mobile" src="../static/images/logo_mobile.svg" alt="logo ">
+      <img class="logo" src="../static/logo.svg" alt="logo"/>
+      <img class="logo_mobile" src="../static/logo_mobile.svg" alt="logo ">
     </header>
     <main class="container">
       <h1>«Дизайн під час війни»</h1>

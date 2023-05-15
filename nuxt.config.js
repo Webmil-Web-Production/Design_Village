@@ -17,12 +17,12 @@ export default {
   ssr: false,
   target: 'static',
   router: {
-    base:'/Design_Village/'
+    base:'/'
   },
 
   css: [
-    '~/static/scss/normalize.css',
-    '~/static/scss/main.scss'
+    '~/static/normalize.css',
+    '~/static/main.scss'
   ],
 
   plugins: [
