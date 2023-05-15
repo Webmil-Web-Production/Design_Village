@@ -15,9 +15,6 @@ export default {
     ]
   },
   mode: 'static',
-  router: {
-    base: '/'
-  },
   css: [
     '~/assets/scss/normalize.css',
     '~/assets/scss/main.scss'
