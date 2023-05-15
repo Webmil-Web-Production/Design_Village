@@ -16,7 +16,7 @@ export default {
   },
   mode: 'static',
   router: {
-    base:'/'
+    base:'/Design_Village/'
   },
 
   css: [
