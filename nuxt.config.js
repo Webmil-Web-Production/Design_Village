@@ -17,7 +17,7 @@ export default {
   ssr: false,
   target: 'static',
   router: {
-    base:'/'
+    base:'/Design_Village/'
   },
 
   css: [
